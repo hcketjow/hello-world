@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+Hi everybody, 
+I'm Wojtek. I love programing. 
